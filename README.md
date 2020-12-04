@@ -1,7 +1,7 @@
 
-# :nail_care: BULDING A CV WITH GATSBY
+## :nail_care: Building a CV With Gatsby
 
-### Helloooo everybody! I’m Ezgi from YU. Today I’m gonna talk about Gatsby and we will build a basic CV with Gatsby. I hope you gonna like and enjoy it. Oke let’s dig in!
+#### Helloooo everybody! I’m Ezgi from GNT-Yu. Today I will talk about Gatsby and we will build a basic CV with Gatsby. I hope you would like and enjoy it. Oke let’s dig in!
 
 
 <hr/>
@@ -10,7 +10,7 @@
 
 First we need to set up our development environment.
 
--![Gif about starting](https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif)
+![Gif about starting](https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif)
 
 <hr/>
 
@@ -20,7 +20,8 @@ First we need to set up our development environment.
 2. If you don't have install the `Node.js, npm`. (Node.js is an environment that can run JavaScript code outside of a web browser.)
 3. Install Git: be able to work with starter templates.
 4. Install Gatsby globally on your machine ```install -g gatsby-cli```
-5. Create a new site from [Starters](https://www.gatsbyjs.com/starters/?v=2) Choose the one you like or start with a default gatsby starter which is `hello world`.
+5. Create a new site from [Starters](https://www.gatsbyjs.com/starters/?v=2) 
+ - Choose the one you like or start with a default gatsby starter which is [hello world](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world/)
 
 ## :octocat: Github & Terminal
 
@@ -57,7 +58,7 @@ First we need to set up our development environment.
 
 ## Well done! Nice job :clap:
 
--![Gif about starting](https://media.giphy.com/media/YRuFixSNWFVcXaxpmX/giphy.gif)
+![Gif about starting](https://media.giphy.com/media/YRuFixSNWFVcXaxpmX/giphy.gif)
 
 ## :fishing_pole_and_fish: Tools 
 
