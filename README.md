@@ -1,7 +1,7 @@
 
 ## :nail_care: Building a CV With Gatsby
 
-#### Helloooo everybody! I’m Ezgi from GNT-Yu. Today I will talk about Gatsby and we will build a basic CV with Gatsby. I hope you would like and enjoy it. Oke let’s dig in!
+#### Helloooo everybody! I’m Ezgi from GNT-Yu. Today I will talk about Gatsby and we will build a basic CV with Gatsby. I hope you would like and enjoy it. Oke, let’s dig in!
 
 
 <hr/>
@@ -23,6 +23,9 @@ First we need to set up our development environment.
 5. Create a new site from [Starters](https://www.gatsbyjs.com/starters/?v=2) 
  - Choose the one you like or start with a default gatsby starter which is [hello world](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world/)
 
+ ###### TL;DR :bookmark: If you’re not sure what you installed before then just check from your Commond Line: e.g ``` node --version``` to learn your version. 
+
+
 ## :octocat: Github & Terminal
 
 1. Create a repository named `gatsby-intro`
@@ -35,9 +38,21 @@ First we need to set up our development environment.
 
 -![HomePage](https://www.gatsbyjs.com/static/057f454229859b1752c44dba1580984e/a8c87/04-home-page.png)
 
+8. Your `hello world` **_index.js_** file should be like this:
+
+```import React from "react"
+
+export default function Home() {
+  return <div>Hello world!</div>
+}
+
+```
+
+  {/* you need to export as React rule. */}.
 <hr/>
 
 ## :dizzy: Installing Plugins
+
 
  
 
@@ -49,10 +64,9 @@ First we need to set up our development environment.
 
 ## 🚀 Deploy your work 
 
-- `npm build gatsby` you need this command to build your project.
+- `npm gatsby build` you need this command to build your project.
 - Always push your work on github (at least 3 times in an hour)
-- Drag and Drop your `Build` file to [Netlify](https://app.netlify.com/drop), so we can see your CV easily!
-- Don't forget to add a file **_.gitignore_** with the following code `node_modules` before you push to github and upload!
+- Drag and Drop your `static` file to [Netlify](https://app.netlify.com/drop), so we can see your CV easily!
 
 <hr/>
 
