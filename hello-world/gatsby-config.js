@@ -5,6 +5,11 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Ezgi",
+    author: "Ezgi Hendrickx",
+    siteUrl: `https://www.ezgihendrickx.dev/`,
+  },
   /* Your site config here */
-  plugins: [],
+  plugins: [`gatsby-plugin-sass`],
 }
