@@ -4,12 +4,18 @@ import "./skills.styles.scss"
 function Skills() {
   return (
     <div className="skills">
-      <h2>
-        <span role="img" aria-label="bag emoji">
-          &#128188;
-        </span>{" "}
-        SKILLS{" "}
-      </h2>
+      <img
+        className="hat"
+        src="./img/graduation-hat.svg"
+        alt="graduation-hat"
+      ></img>
+      <h2>SKILLS </h2>
+      <div className="badges">
+        <img className="html" src="./img/html5.svg" alt="HTML5"></img>
+      </div>
+      <div className="htmlbadge">
+        <p>HTML</p>
+      </div>
     </div>
   )
 }

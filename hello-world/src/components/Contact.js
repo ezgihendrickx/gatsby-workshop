@@ -11,11 +11,18 @@ function Contact() {
       ></img>
       <h2>CONTACT</h2>
       <div className="icons">
-        <img
-          className="linkedin"
-          src="./img/linkedin.svg"
-          alt="linkedin icon"
-        />
+        <a
+          className="linear"
+          href="https://www.linkedin.com/in/ezgi-hendrickx-0a897b15b/"
+          target="blank_"
+        >
+          <img
+            className="linkedin"
+            src="./img/linkedin.svg"
+            alt="linkedin icon"
+          />
+        </a>
+
         <img className="twitter" src="./img/twitter.svg" alt="twitter icon" />
 
         <div>

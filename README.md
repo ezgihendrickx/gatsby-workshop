@@ -76,7 +76,7 @@ export default function Home() {
     - Skills.js
     - Projects.js
 
-<img src="mockup.png" alt="components-mockup">
+<img src="./mockup.png" alt="components-mockup" width="455px" height="330">
 
 :warning: Don't forget to create `styles.scss`files.
 
