@@ -5,13 +5,9 @@ import Cards from "./Cards"
 function Projects() {
   return (
     <div className="projects">
-      <h2>
-        <span role="img" aria-label="anchor emoji">
-          &#9875;
-        </span>{" "}
-        {}
-        PROJECTS
-      </h2>
+      <img className="folder" src="./img/folder.svg" alt="folder" />
+      <h2>PROJECTS</h2>
+
       <Cards />
       <Cards />
       <Cards />

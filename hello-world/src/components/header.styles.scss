@@ -1,12 +1,14 @@
 body {
     margin: 0;
-    background-color: #fbfb;
+    background-color: #FFFFFFF7;
   }
 
-  .header {
-      background-color: rgb(194, 179, 179);
+  .scrolling-header {
+      background-color: #FFFFFFF7;
       height: 4rem;
-      border: black dashed;
+      position: fixed;
+      width: 100%;
+      height: 50px;
       
   }
   h1 {
@@ -15,3 +17,10 @@ body {
       font-size: 32px;
      
   }
+
+.furby{
+    width: 3rem;
+    height: 3rem;
+    float: right;
+   
+}

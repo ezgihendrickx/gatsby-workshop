@@ -68,15 +68,15 @@ export default function Home() {
 ```
 9. Create components in your `src`folder.
 - components
- - Footer.js
- - Header.js
- - Main.js
-  - About.js
-  - Contact.js
-  - Skills.js
-  - Projects.js
+  - Footer.js
+  - Header.js
+  - Main.js
+    - About.js
+    - Contact.js
+    - Skills.js
+    - Projects.js
 
-<img src="/images/mockup.png" alt="components-mockup">
+<img src="mockup.png" alt="components-mockup">
 
 :warning: Don't forget to create `styles.scss`files.
 

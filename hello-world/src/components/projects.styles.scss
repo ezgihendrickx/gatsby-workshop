@@ -1,15 +1,27 @@
 .projects {
-    background-color:blue;
+    background-color:#FFFFFFF7;
     height: 20rem;
     width: 60rem;
-    border: black dashed;
-    margin-top: 5px;
+    border: black solid 3px;
+    margin-top: 47px;
     float: left;
+  
     
     
 }
 h2 {
     padding-left: 0.3rem;
-    margin-top: 1px;
+    margin-top: 0px;
     font-size: 32px;
+    color: black;
+    margin-bottom:1rem;
+  
+}
+
+.folder{
+    width: 3rem;
+    height: 3rem;
+    float:left;
+ 
+   
 }

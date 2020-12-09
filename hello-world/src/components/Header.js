@@ -1,17 +1,24 @@
-import React from "react"
+import React, { Component } from "react"
 import "./header.styles.scss"
 
-function Header() {
-  return (
-    <div className="header">
-      <h1>
-        Ezgi
-        <span role="img" aria-label="This is an purple animal emoji">
-          &#128126;
-        </span>
-      </h1>
-    </div>
-  )
-}
+export default class ScrollingHeader extends Component {
+  //This component gonna be a stateful component
+  constructor(props) {
+    super(props) // call the parent
 
-export default Header
+    this.state = {
+      //call the state
+      isMin: false, //it tells header should be minimize or not
+    }
+  }
+  render() {
+    return (
+      <div className="scrolling-header">
+        <h1>
+          Ezgi
+          <img className="furby" src="./img/furby.svg" alt="furby icon"></img>
+        </h1>
+      </div>
+    )
+  }
+}
