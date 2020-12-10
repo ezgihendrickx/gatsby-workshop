@@ -20,12 +20,41 @@ h2 {
     float:left;
       
 }
-.html {
+.html, .css, .vsc {
     width: 64px;
     height:76px;
+  
+}
+
+
+.js {
+    width: 64px;
+    height:64px;
+   
+    
+
+}
+.react {
+    width: 100px;
+    height:70px;
+}
+
+.git,.sketch, .figma  {
+    width: 64.25px;
+    height:63.92px;
+
 }
 
 .htmlbadge {
 margin-left: 1rem;
 margin-top: -15px;
+
+}
+
+.char {
+ float: left;
+ padding: 1rem;
+}
+.seconddiv {
+   clear: both;
 }
