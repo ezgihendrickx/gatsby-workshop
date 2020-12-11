@@ -76,7 +76,7 @@ export default function Home() {
     - Skills.js
     - Projects.js
 
-<img src="./mockup.png" alt="components-mockup" width="455px" height="330">
+![componentsphoto](mockup.png)
 
 :warning: Don't forget to create `styles.scss`files.
 
@@ -95,7 +95,7 @@ export default function Home() {
 
 ## :art: Give a shape 
 
-1. CSS: We need to work on that but if you feel confident with CSS frameworks then you can implement a framework to your gatsby project. [Tailwind](https://www.gatsbyjs.com/docs/tailwind-css/) or [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
+1. CSS: Apply some basic CSS. If you feel confident with CSS frameworks then you can implement a framework to your gatsby project. [Tailwind](https://www.gatsbyjs.com/docs/tailwind-css/) or [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
 
 <hr/>
 

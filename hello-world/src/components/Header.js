@@ -11,11 +11,13 @@ export default class ScrollingHeader extends Component {
       isMin: false, //it tells header should be minimize or not
     }
   }
+
   render() {
     return (
       <div className="scrolling-header">
         <h1>
-          Ezgi
+          {" "}
+          <code>Ezgi/></code>
           <img className="furby" src="./img/furby.svg" alt="furby icon"></img>
         </h1>
       </div>
