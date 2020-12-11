@@ -14,7 +14,8 @@ function Contact() {
         <a
           className="linear"
           href="https://www.linkedin.com/in/ezgi-hendrickx-0a897b15b/"
-          target="blank_"
+          target="blank_ "
+          rel="noreferrer"
         >
           <img
             className="linkedin"
@@ -22,12 +23,28 @@ function Contact() {
             alt="linkedin icon"
           />
         </a>
-
-        <img className="twitter" src="./img/twitter.svg" alt="twitter icon" />
-
+        <a
+          href="https://twitter.com/ezgihendrickx"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img className="twitter" src="./img/twitter.svg" alt="twitter icon" />
+        </a>
         <div>
-          <img className="email" src="./img/email.svg" alt="email icon" />
-          <img className="github" src="./img/github.svg" alt="github icon" />
+          <a
+            href="mailto:ezgihendrickx@gmail.com?&subject=About%20.."
+            target="_top"
+            rel="noreferrer"
+          >
+            <img className="email" src="./img/email.svg" alt="email icon" />
+          </a>
+          <a
+            href="https://github.com/ezgihendrickx"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img className="github" src="./img/github.svg" alt="github icon" />
+          </a>
         </div>
       </div>
     </div>

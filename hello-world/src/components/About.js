@@ -12,26 +12,35 @@ function About() {
           src="./img/meblack&white.jpg"
           alt="profilephoto"
         ></img>
-      </div>
-
-      <div className="aboutme">
-        <h3 className="header3">Hello there, I'm Ezgi!</h3>
         <div className="bio">
-          <p>
-            {" "}
-            I am currently looking for my next challenge as a Front-End
-            Developer, having expertise in both Web Development and UI/UX
-            design. After moving to Belgium I decided to return to my passion
-            about design & advertising and further build upon my university
-            studies in Communication Arts.
+          <h3 className="header3">Hello there, I'm Ezgi!</h3>
+          <p className="aboutme">
+            I am currently looking for my next challenge as a{" "}
+            <span className="frontend">Front-End Developer</span>, having
+            expertise in both Web Development and UI/UX design. After moving to
+            Belgium I decided to return to my passion about design & advertising
+            and further build upon my university studies in Communication Arts.
           </p>
 
-          <p>
-            After an internship as UI/UX designer at an ambitious start-up
-            company within EY, I am currently at the end of an intensive 7 month
-            Education in Web Development @BeCode.
+          <p className="aboutme">
+            After an internship as{" "}
+            <span className="uidesigner">UI/UX designer</span> at an ambitious
+            start-up company within{" "}
+            <a
+              href="https://thefactory.works/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              EY
+            </a>
+            , I am currently at the end of an intensive 7 month Education in Web
+            Development{" "}
+            <a href="https://becode.org/" target="_blank" rel="noreferrer">
+              @BeCode
+            </a>
+            .
           </p>
-          <p>
+          <p className="aboutme">
             During my stay in Stockholm, Sweden, I got fascinated by Nordic
             design and since then I integrate minimalist design principles in
             many of my projects.

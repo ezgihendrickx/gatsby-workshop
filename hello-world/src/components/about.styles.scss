@@ -1,12 +1,12 @@
 .about{
     background-color:#FFFFFFF7;
     height: 26rem;
-    width: 57.7rem;
+    width: 57.3rem;
     border: black solid 3px;
     margin-top: 5px;
     text-align: left;
     float: left;
-    margin-left: 3.5px;
+    margin-left: 5px;
    
   
 }
@@ -22,25 +22,24 @@ h2 {
  
    
 }
-.aboutme {
-    padding-left: 0.3rem;
-    float: right;
-   
-}
 
+.header3 {
+   text-align: center;
+    margin-left: 3.5px;
+}
 
 .profile {
-    padding-left: 1rem;
-
-}
-.bio {
-
-    font-size: 1rem;
-    text-align: right;
-
+    float: left;
+    margin-right: 2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
    
 }
-.header3 {
-    float: right;
-    margin-left: 3.5px;
+.aboutme {
+    font-size: 1rem;
+    text-align: initial;
+ 
+}
+.frontend, .uidesigner {
+    color: #FF5364;
 }
