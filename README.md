@@ -7,11 +7,24 @@
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img alt="Badge Gatsby" src="https://img.shields.io/badge/GATSBY-purple?style=flat&logo=gatsby" />
   </a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img alt="Badge Markdown" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown" />
+      </a>
+     <a href="https://www.javascript.com/" target="_blank">
+    <img alt="Badge JS" src="https://img.shields.io/badge/JS-yellow?style=flat&logo=js" />
+  </a>
 
+   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img alt="Badge CSS3" src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3" />
+  </a>
+   <a href="https://developer.mozilla.org/tr/docs/Web/HTML" target="_blank">
+    <img alt="Badge HTML5" src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5" />
+  </a>
+  
 </p>
 
 <h2 align="center">
-  <a href="https://ezgihendrickx.dev/" target="_blank">🌐 Live</a>
+  <a href="https://jolly-hypatia-3fd4ea.netlify.app/" target="_blank"> 🍋 Live</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   
 </h2>
