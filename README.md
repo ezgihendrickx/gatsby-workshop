@@ -76,7 +76,7 @@ export default function Home() {
     - Skills.js
     - Projects.js
 
-![componentsphoto](mockup.png)
+![componentsphoto](/mockup.png)
 
 :warning: Don't forget to create `styles.scss`files.
 
@@ -101,9 +101,9 @@ export default function Home() {
 
 ## 🚀 Deploy your work 
 
-- `npm gatsby build` you need this command to build your project.
+- `gatsby build` you need this command to build your project.
 - Always push your work on github (at least 3 times in an hour)
-- Drag and Drop your `static` file to [Netlify](https://app.netlify.com/drop), so we can see your CV online!
+- Drag and Drop your `public` file to the [Netlify](https://app.netlify.com/drop), so we can see your CV online!
 
 <hr/>
 
