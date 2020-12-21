@@ -24,13 +24,13 @@
 </p>
 
 <h2 align="center">
-  <a href="https://jolly-hypatia-3fd4ea.netlify.app/" target="_blank"> 🍋 Live</a>
+  <a href="https://gatsby2020.netlify.app/" target="_blank"> 🍋 Live</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   
 </h2>
 <br/>
 
-#### Helloooo everybody! I’m Ezgi from GNT-Yu. Today I will talk about Gatsby and we will build a basic CV with Gatsby. I hope you would like and enjoy it. Oke, let’s dig in!
+#### Helloooo everybody! I’m Ezgi from GNT-Yu. Today I will talk about Gatsby and we will build a basic CV with Gatsby. I hope you will like and enjoy it. Oke, let’s dig in!
 
 
 <hr/>

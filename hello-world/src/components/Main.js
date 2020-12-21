@@ -3,7 +3,7 @@ import "./main.styles.scss"
 import Projects from "./Projects"
 import Contact from "./Contact"
 import Skills from "./Skills"
-import About from "./about"
+import About from "./About"
 
 function Main() {
   return (
