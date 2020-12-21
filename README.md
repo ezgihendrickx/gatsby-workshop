@@ -91,7 +91,7 @@ export default function Home() {
 
 ![componentsphoto](/mockup.png)
 
-:warning: Don't forget to create `styles.scss`files.
+:warning: Don't forget to create `styles.css`files.
 
 <hr/>
 

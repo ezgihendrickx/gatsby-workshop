@@ -5,22 +5,12 @@ import Footer from "../components/Footer"
 import "./index.styles.scss"
 
 class Home extends Component {
-  // state = {
-  //   callme: "Ezgi",
-  // }
-
-  // callmeChangedHandler = event => {
-  //   this.setState({ callme: event.target.value })
-  // }
-
   render() {
     return (
       <div>
         <Header />
         <Main />
         <Footer />
-
-        {/* <UserOutput userName="ezgi" /> */}
       </div>
     )
   }

@@ -20,20 +20,19 @@ h2 {
     float:left;
       
 }
-.html, .css, .vsc {
+.html, .css, {
     width: 64px;
     height:76px;
   
 }
 
 
-.js {
+.js, .vsc {
     width: 64px;
     height:64px;
    
-    
-
 }
+
 .react {
     width: 100px;
     height:70px;
@@ -57,4 +56,22 @@ margin-top: -15px;
 }
 .seconddiv {
    clear: both;
+}
+.htmlname, .cssname {
+    padding-left: 1rem;
+}
+.jsname {
+    padding-top: 10px;
+    padding-left: 1rem;
+}
+.reactname, .gitname, .figmaname{
+    padding-left: 1rem;
+}
+
+.vscname {
+    padding-left: 1rem;
+
+}
+.figmaname {
+    padding-left: 10px;
 }
