@@ -24,8 +24,8 @@
 </p>
 
 <h2 align="center">
-  <a href="https://gatsby2020.netlify.app/" target="_blank"> 🍋 Live</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://gatsbydevelop.netlify.app/" target="_blank"> 🍋 Live</a>
+ 
   
 </h2>
 <br/>
