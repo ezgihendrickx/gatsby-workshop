@@ -3,7 +3,7 @@
  *
  * See: https://www.gatsbyjs.com/docs/gatsby-config/
  */
-
+const path = require("path")
 module.exports = {
   siteMetadata: {
     title: "Ezgi",
@@ -11,5 +11,14 @@ module.exports = {
     siteUrl: `https://www.ezgihendrickx.dev/`,
   },
   /* Your site config here */
-  plugins: [`gatsby-plugin-sass`],
+  plugins: [
+    "gatsby-plugin-sass",
+    // {
+    //   resolve: "gatsby-source-filesystem",
+    //   options: {
+    //     name: "src",
+    //     path: `${__dirname}/src/`,
+    //   },
+    // },
+  ],
 }
