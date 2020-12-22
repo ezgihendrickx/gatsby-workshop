@@ -1,7 +1,7 @@
 import React from "react"
 import "./cards.styles.scss"
 
-function Cards(props) {
+function Cards() {
   return (
     <div className="cards">
       <h3>Todo List</h3>
@@ -28,7 +28,7 @@ function Cards(props) {
             />
           </a>
         </p>
-        <p>This is my very first minimalist Todo List. Check it out</p>
+        <p>This is my first Todo List. Check it out!</p>
         <button>
           <strong>Live</strong>
         </button>
