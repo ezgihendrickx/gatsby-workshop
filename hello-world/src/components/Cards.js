@@ -7,7 +7,19 @@ function Cards(props) {
       <h3>{props.head}</h3>
       <div>
         <p align="left" className="badges">
-          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <a
+            href={props.tailwind}
+            target="_blank"
+            rel="noreferrer"
+            className="a1"
+          >
+            <img alt="Badge Tailwindcss" src={props.tailwindimg} />
+          </a>
+          &nbsp;
+          <a href={props.react} target="_blank" rel="noreferrer" className="a1">
+            <img alt="Badge ReactJS" src={props.reactimg} />
+          </a>
+          {/* <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img
               alt="Badge Tailwindcss"
               src="https://img.shields.io/badge/TAILWIND-blue?style=flat&logo=tailwind-css"
@@ -26,14 +38,22 @@ function Cards(props) {
               alt="Badge Gatsby"
               src="https://img.shields.io/badge/GATSBY-purple?style=flat&logo=gatsby"
             />
-          </a>
+          </a> */}
         </p>
         <p>{props.description}</p>
         <button>
-          <strong>Live</strong>
+          <strong>
+            <a href={props.link} target="_blank" className="a1">
+              Live
+            </a>
+          </strong>
         </button>
         <button>
-          <strong>Code</strong>
+          <strong>
+            <a href={props.github} target="_blank" className="a1">
+              Code
+            </a>
+          </strong>
         </button>
       </div>
     </div>
