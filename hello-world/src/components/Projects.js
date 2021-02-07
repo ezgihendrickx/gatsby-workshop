@@ -24,7 +24,7 @@ function Projects() {
         tailwindimg="https://img.shields.io/badge/Vanilla CSS-blue?style=flat&logo=CSS"
         react="https://www.javascript.com/"
         reactimg="https://img.shields.io/badge/Vanilla JS-yellow?style=flat&logo=javascript"
-        description="This is my first Weather App with Vanilla JS and Rest API."
+        description="This is my first Weather App with Vanilla JS and Rest API.	&nbsp;&nbsp;&nbsp;&nbsp;  "
         link="https://ezgihendrickx.github.io/modern-javascript-application/"
         github="https://github.com/ezgihendrickx/modern-javascript-application"
       />

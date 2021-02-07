@@ -1,12 +1,15 @@
 .cards{
     background-color:#FFFFFFF7;
-    height: 15rem;
-    width:18.9rem;
+    height: 16rem;
+    width:90%;
     border: black solid 3px;
-    float: left;
+    max-width: 30rem;
+  
     padding:0.3rem;
-    padding-left: 4px;
-    margin:1px
+    padding: 4px;
+    margin:auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
     
 
 }

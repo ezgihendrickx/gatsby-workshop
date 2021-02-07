@@ -30,7 +30,8 @@
 </h2>
 <br/>
 
-#### Helloooo everybody! I’m Ezgi from GNT-Yu. Today I will talk about Gatsby and we will build a basic CV with Gatsby. I hope you will like and enjoy it. Oke, let’s dig in!
+#### A minimalist CV inspired from Florencia Calvo personal Page 
+
 
 
 <hr/>

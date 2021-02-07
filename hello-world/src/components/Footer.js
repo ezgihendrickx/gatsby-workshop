@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="copyright">
       <p>
-        © 2020, Built with{" "}
+        © 2021, Built with{" "}
         <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
           {" "}
           Gatsby

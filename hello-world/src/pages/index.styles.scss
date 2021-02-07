@@ -1,3 +1,71 @@
 * {
     font-family: "Lekton", monospace;
   }
+
+
+/* I  added mobile-first in the different css. files. When the screen becomes bigger below code will overwrite the default styling.*/
+  @media screen and (min-width:1024px) {
+    body {color:#511218;
+    }
+    .projects {
+      height: 22rem;
+     
+    }
+  .contact {
+    height: 25rem;
+    width: 40%;
+  }
+  .cards {
+    float: left;
+  }
+  .profile {
+    float: left;
+  }
+  .cards {
+    width:30%;
+    margin: 5px;
+  }
+  .skills {
+ 
+    width: auto;
+
+  }
+
+   
+
+  }
+  @media screen and (min-width:1460px) {
+    body { color: black;  
+  
+    }
+    /*footer {
+       align-items: center;
+     }*/
+    .contact {
+      // margin-top: 50px;
+     
+      height: 22rem;
+      width: 30%;
+      max-width: 27rem;
+   
+    }
+    .projects {
+      height: 22rem;
+      float: left;
+      width: 65%;
+   
+    }
+
+.cards {
+  float: left;
+  margin: 5px;
+}
+.about {
+  width: 65%;
+  height: 25rem;
+}
+.skills {
+  width: 30%;
+  max-width: 27rem;
+}
+  }
