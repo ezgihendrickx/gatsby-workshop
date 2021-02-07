@@ -30,7 +30,7 @@
 </h2>
 <br/>
 <h3 align="center">
-A minimalist CV inspired by Florencia Calvo personal Page 
+A minimalist CV inspired by Florencia Calvo personal page 
 </h3>
 
 
