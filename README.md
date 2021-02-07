@@ -29,9 +29,9 @@
   
 </h2>
 <br/>
-<h2 align="center">
+<h3 align="center">
 A minimalist CV inspired from Florencia Calvo personal Page 
-</h2>
+</h3>
 
 
 
